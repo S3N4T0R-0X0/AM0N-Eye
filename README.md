@@ -6,7 +6,7 @@ This project is not authorized to be published ⚠️
 
 Due to the copyrights of fortra, the developers are not responsible for any attempt to publish AM0N-Eye
 
-![Screenshot from 2023-07-16 15-29-53](https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/1e6fb091-dd7a-42bc-ab11-988f4a0ea0bb)
+![Screenshot from 2023-07-16 15-29-53](https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/ba64c438-882c-4bab-9586-300e3ce913b3)
 
 The names of the projects that have been added.
 /ScareCrow/ /CrossC2/ /CSSG-xor/ /InvokeCredentialPhisher/ /Registry-Recon/  /random_c2_profile/ /C2concealer/
@@ -55,14 +55,7 @@ Don't forget to Check C2 profiles in /AM0N-Eye/C2-Profiles/ to bypass network fi
 To use a custom profile  you must start a AM0N-Eye team server and specify your profile at that tim 
 Example ./teamserver [external IP] [password] [/path/to/my.profile] .
 
-
-
-![Screenshot from 2023-07-22 21-07-34](https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/de7e2991-99da-4f7f-abf5-f00294b75318)
-
-
-
-
-
+![Screenshot from 2023-07-22 21-07-34](https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/b362470b-3441-489f-81f0-4812f1748a80)
 	
 # Fake Alert update
 
@@ -178,7 +171,7 @@ b64 then 7xgzip - base64 then gzip compress the shellcode 7 times
 
 # Persistence
 		
-![Screenshot from 2023-07-22 21-08-58](https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/611523cb-4fee-483a-b890-e1bf13cefaea)
+![Screenshot from 2023-07-22 21-08-58](https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/005e6517-16ab-4175-b6c7-df4ed741f738)
 
 
 
