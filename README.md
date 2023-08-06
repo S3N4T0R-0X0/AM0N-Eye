@@ -2,6 +2,8 @@
 AM0N-Eye is the decompiled from Cobaltsetrike and has been modified and developed through several aggressor scripts & BOF
 is project based on a combination of different ideas and projects used by the threat actor where we observe a set of techniques to evasion EDR and AV while allowing the operator to continue using the tools.
 
+The most focused point for the development is the collection of projects for the Cobaltsetrike and making it an essential feature without the need for me to add it every time.
+
 This project is not authorized to be published ⚠️
 
 Due to the copyrights of fortra, the developers are not responsible for any attempt to publish AM0N-Eye
