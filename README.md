@@ -2,7 +2,7 @@
 AM0N-Eye is the decompiled from Cobaltsetrike and has been modified and developed through several aggressor scripts & BOF
 is project based on a combination of different ideas and projects used by the threat actor where we observe a set of techniques to evasion EDR and AV while allowing the operator to continue using the tools.
 
-The most focused point for the development is the collection of projects for the Cobaltsetrike and making it an essential feature without the need for me to add it every time,Obfuscate the scripts called by the aggressor scripts to activate them at the target,and changed the default c2 profile to change the signature of Cobalt, while maintaining the integration feature, with other c2 profiles.
+The most focused point for the development is the collection of projects for the Cobaltsetrike (aggressor scripts) and making it an essential feature without the need for me to add it every time,Obfuscate the scripts called by the aggressor scripts to activate them at the target,and changed the default c2 profile to change the signature of Cobalt, while maintaining the integration feature with other c2 profiles, and writing new c2 samples for Windows,Linux,Mac OS.
 
 This project is not authorized to be published ⚠️
 
