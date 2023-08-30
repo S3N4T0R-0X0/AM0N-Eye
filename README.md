@@ -10,7 +10,7 @@ Due to the copyrights of fortra, the developers are not responsible for any atte
 
 ![Screenshot from 2023-07-16 15-29-53](https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/9ce4615d-a0d4-4e02-9a9a-45245c8b595e)
 
-The names of the projects that have been added.
+The names of the projects (aggressor scripts) that have been added.
 /ScareCrow/ /CrossC2/ /CSSG-xor/ /InvokeCredentialPhisher/ /Registry-Recon/  /random_c2_profile/ /C2concealer/
 /zerologon with CVE-2020-1472/ /process-hollowing by sektor7/ /AntiForensics by @Und3rf10w/
 /StaticSyscallsAPCSpawn ,StaticSyscallsDump ,StaticSyscallsInject by @Jackson_T/
