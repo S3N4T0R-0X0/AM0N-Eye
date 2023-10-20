@@ -50,7 +50,7 @@ To use a custom profile  you must start a AM0N-Eye team server and specify your 
 Example ./teamserver [external IP] [password] [/path/to/my.profile] .
 
 
-Bypass ESET EDR by AM0N-Eye
+# Bypass ESET EDR
 
 
 https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/d54517fb-9f36-4e84-a447-0833910bad9b
