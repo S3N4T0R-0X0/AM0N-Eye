@@ -49,6 +49,18 @@ Don't forget to Check C2 profiles in /AM0N-Eye/C2-Profiles/ to bypass network fi
 To use a custom profile  you must start a AM0N-Eye team server and specify your profile at that tim 
 Example ./teamserver [external IP] [password] [/path/to/my.profile] .
 
+# Bypass Kaspersky EDR
+__________________________________________________________________________________________________________________________________________________________
+
+
+
+
+https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/acfb7339-5a65-4cdf-b28c-811fbae58159
+
+
+
+
+
 
 # Bypass ESET EDR
 __________________________________________________________________________________________________________________________________________________________
