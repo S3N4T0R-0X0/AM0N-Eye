@@ -57,16 +57,12 @@ ________________________________________________________________________________
 
 https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/acfb7339-5a65-4cdf-b28c-811fbae58159
 
-
-
-
-
-
-# Bypass ESET EDR
+# Bypass FireEye EDR
 __________________________________________________________________________________________________________________________________________________________
 
 
-https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/d54517fb-9f36-4e84-a447-0833910bad9b
+https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/5a898591-9c23-4b2d-9085-54b4c528696f
+
 
 
 # Bypass Sophos EDR
@@ -80,11 +76,14 @@ https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/55e607f7-b3c4-4e1b-b1cd
 
 
 
-# Bypass FireEye EDR
+# Bypass ESET EDR
 __________________________________________________________________________________________________________________________________________________________
 
 
-https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/5a898591-9c23-4b2d-9085-54b4c528696f
+https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/d54517fb-9f36-4e84-a447-0833910bad9b
+
+
+
 
 
 # Bypass Kaspersky AV & Hunters Against EDR
