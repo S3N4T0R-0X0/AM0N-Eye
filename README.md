@@ -148,7 +148,7 @@ EX: Load powershell script and execute it
 ![photo_2023-11-08_14-47-07](https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/b77a84f7-9328-4a41-ac9c-c2c358494b7f)
 
 
-
+# Linux, MacOS C2 Server
 
 ![Screenshot from 2023-07-22 21-07-34](https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/e978415c-02d0-4111-bba4-51f668459029)
 
