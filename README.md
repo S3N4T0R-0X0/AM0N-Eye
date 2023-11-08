@@ -142,8 +142,10 @@ EX: Load powershell script and execute it
 	bpowershell_import($bid,("/opt/amon-eye/load/alert.ps1"));
 	bpowershell($bid, $cmd);
  
- That's why I Obfuscate these texts to make the detection process more difficult
+That's why I Obfuscate these texts to make the detection process more difficult.
 
+Note 💬️
+It is normal for any program file in this path (/opt/amon-eye/load) to be classified as malicious, because it is a program that is launched on the victim and is called internally from AM0N-Eye, and some of them can be encrypted or obfuscated to facilitate bypassing defensive machines.
 
 ![photo_2023-11-08_14-47-07](https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/b77a84f7-9328-4a41-ac9c-c2c358494b7f)
 
