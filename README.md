@@ -49,6 +49,31 @@ Don't forget to Check C2 profiles in /AM0N-Eye/C2-Profiles/ to bypass network fi
 To use a custom profile  you must start a AM0N-Eye team server and specify your profile at that tim 
 Example ./teamserver [external IP] [password] [/path/to/my.profile] .
 
+# C2-simples
+
+windows https://github.com/S3N4T0R-0X0/Jicop-H00k.git
+
+Linux   https://github.com/S3N4T0R-0X0/Marionette.git
+
+Mac-os  https://github.com/S3N4T0R-0X0/Diablo.git
+__________________________________________________________________________________________________________________________________________________________
+
+# Obfuscate the scripts called by the aggressor scripts 
+
+Some aggressor scripts use some external scripts and are called by the aggressor script when they run
+
+EX: Load powershell script and execute it			
+	bpowershell_import($bid,("/opt/amon-eye/load/alert.ps1"));
+	bpowershell($bid, $cmd);
+ 
+That's why I Obfuscate these texts to make the detection process more difficult.
+
+Note 💬️
+It is normal for any program file in this path (/opt/amon-eye/load) to be classified as malicious, because it is a program that is launched on the victim and is called internally from AM0N-Eye, and some of them can be encrypted or obfuscated to facilitate bypassing defensive machines.
+
+![photo_2023-11-08_14-47-07](https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/b77a84f7-9328-4a41-ac9c-c2c358494b7f)
+
+
 # Bypass Kaspersky EDR
 __________________________________________________________________________________________________________________________________________________________
 
@@ -125,29 +150,7 @@ https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/9cafcc1e-d750-4432-9a68
 
 
 
-# C2-simples
 
-windows https://github.com/S3N4T0R-0X0/Jicop-H00k.git
-
-Linux   https://github.com/S3N4T0R-0X0/Marionette.git
-
-Mac-os  https://github.com/S3N4T0R-0X0/Diablo.git
-__________________________________________________________________________________________________________________________________________________________
-
-# Obfuscate the scripts called by the aggressor scripts 
-
-Some aggressor scripts use some external scripts and are called by the aggressor script when they run
-
-EX: Load powershell script and execute it			
-	bpowershell_import($bid,("/opt/amon-eye/load/alert.ps1"));
-	bpowershell($bid, $cmd);
- 
-That's why I Obfuscate these texts to make the detection process more difficult.
-
-Note 💬️
-It is normal for any program file in this path (/opt/amon-eye/load) to be classified as malicious, because it is a program that is launched on the victim and is called internally from AM0N-Eye, and some of them can be encrypted or obfuscated to facilitate bypassing defensive machines.
-
-![photo_2023-11-08_14-47-07](https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/b77a84f7-9328-4a41-ac9c-c2c358494b7f)
 
 
 # Linux, MacOS C2 Server
@@ -253,9 +256,6 @@ AV/EDR  & EDR exact query
  
 As a red-team practitioner, we are often using tools that attempt to fingerprint details about a compromised system, preferably in the most stealthy way possible. Some of our usual tooling for this started getting flagged by EDR products, due to the use of Windows CLI commands.
 This aims to solve that problem by only probing the system using native registry queries, no CLI commands.
-
-
-
 
 
 
