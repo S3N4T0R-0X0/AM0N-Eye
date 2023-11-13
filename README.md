@@ -75,13 +75,16 @@ It is normal for any program file in this path (/opt/amon-eye/load) to be classi
 
 __________________________________________________________________________________________________________________________________________________________
 
+
 # Demos for bypassing defensive machines
 
-Some demos where I was able to bypass some defensive machines.
+  Some demos where I was able to bypass some defensive machines.
 
-Note: I did not use any of the aggressor scripts or BOF in any of these demos,
+  Note: I did not use any of the aggressor scripts or BOF in any of these demos,
 
-I only depend the new samples and the new Default profile.
+  I only depend the new samples and the new Default profile.
+
+  
 __________________________________________________________________________________________________________________________________________________________
 
 
@@ -101,9 +104,10 @@ https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/b2fafc1c-6220-4e35-9e82
 __________________________________________________________________________________________________________________________________________________________
 
 
-
-
 https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/acfb7339-5a65-4cdf-b28c-811fbae58159
+
+
+
 
 # Bypass FireEye Endpoint
 __________________________________________________________________________________________________________________________________________________________
@@ -120,6 +124,17 @@ ________________________________________________________________________________
 
 
 https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/55e607f7-b3c4-4e1b-b1cd-86e4e00b2a60
+
+
+
+# Bypass Symantec Endpoint 
+__________________________________________________________________________________________________________________________________________________________
+
+
+
+https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/9b3f363f-fd25-4d1f-84d3-365c2e11edc2
+
+
 
 
 
