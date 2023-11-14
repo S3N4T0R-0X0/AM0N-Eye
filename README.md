@@ -26,8 +26,8 @@ and here I will know some TTPs of AM0N-Eye, but not all.
 6. Anti-Forensics
 7. AV/EDR Recon
 8. PayloadGenerator Undetected by antivirus programs
-9. custom malwares
-10. New c2 profile
+9.  New C2-profile  
+10. New C2-Samples
 __________________________________________________________________________________________________________________________________________________________
 # PayloadGenerator
 
@@ -91,7 +91,7 @@ configuration for memory related to a c2-profile. Here's a breakdown of the info
 ![Screenshot from 2023-11-13 22-29-07](https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/75619d8d-449c-4462-a6ac-22bbbfaf9ec0)
 
 
-# C2-simples
+# C2-Samples
 
 windows https://github.com/S3N4T0R-0X0/Jicop-H00k.git
 
