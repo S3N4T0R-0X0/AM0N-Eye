@@ -49,6 +49,48 @@ Don't forget to Check C2 profiles in /AM0N-Eye/C2-Profiles/ to bypass network fi
 To use a custom profile  you must start a AM0N-Eye team server and specify your profile at that tim 
 Example ./teamserver [external IP] [password] [/path/to/my.profile] .
 
+# C2-profile
+
+configuration for memory related to a c2-profile. Here's a breakdown of the information:
+
+1. Allocator and Permissions:
+   - allocator: Specifies the method used to allocate memory in a remote process for injected content. It can be either "VirtualAllocEx" or "VirtualAlloc."
+   - userwx: Determines the final permissions for injected or buffer overflow (BOF) content. It can be either "false" (RX) or "true" (RWX).
+
+2. Memory Magic Bytes:
+   - magic_mz_x86 and magic_mz_x64: Specify the modified magic bytes (MZ) for x86 and x64 architectures, respectively.
+   - magic_pe: Specifies the modified magic bytes for the PE header.
+
+3. Stomping and Obfuscation:
+   - stomppe: If set to "true," it indicates that the PE header will be stomped (overwritten) during the execution.
+   - obfuscate: If set to "true," it suggests that obfuscation techniques will be applied to the code.
+
+4. Cleanup and Sleep Masking:
+   - cleanup: If set to "true," it indicates that the post-exploitation UDRL memory will be cleaned up upon loading the post-exploitation DLL.
+   - sleep_mask: If set to "true," it implies that memory masking will be applied when sleeping (possibly for evading detection).
+
+5. Smart Injection:
+   - smartinject: If set to "true," it suggests that key function pointers will be embedded into the beacon for more efficient operation.
+
+6. Checksum and Timestamp:
+   - checksum: Specifies the checksum value.
+   - compile_time: Indicates the compile time of the code.
+
+7. Entry Point and Image Size:
+   - entry_point: Specifies the entry point of the code.
+   - image_size_x86 and image_size_x64: Define the image size for x86 and x64 architectures, respectively.
+
+8. File Name and Rich Header:
+   - name: Specifies the name of the post-exploitation DLL.
+   - rich_header: Represents the modified rich header bytes.
+
+9. String Transformations:
+   - The transform-x86 and transform-x64 sections define transformations to replace specific strings in the code. This can be used to modify error messages or remove certain information.
+![Screenshot from 2023-11-13 22-10-30](https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/369b2665-5400-420b-b669-952bbb95fc8c)
+
+![Screenshot from 2023-11-13 22-09-56](https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/a9aa8540-1870-45ff-95d1-5dadecd76dfc)
+
+
 # C2-simples
 
 windows https://github.com/S3N4T0R-0X0/Jicop-H00k.git
