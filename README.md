@@ -1,4 +1,4 @@
-# AM0N-Eye
+![image](https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/c85c73b2-a734-4c57-8da3-3ccba5a8ff3a)# AM0N-Eye
 AM0N-Eye is the decompiled from Cobaltsetrike and has been modified and developed through several aggressor scripts & BOF
 is project based on a combination of different ideas and projects used by the threat actor where we observe a set of techniques to evasion EDR and AV while allowing the operator to continue using the tools.
 
@@ -126,8 +126,12 @@ ________________________________________________________________________________
 
   I only depend the new samples and the new Default profile.
 
-  
-__________________________________________________________________________________________________________________________________________________________
+  ## Bypass CrowdStrike Endpoint
+_________________________________________________________________________________________________________________________________________________________
+
+
+
+https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/73390bca-9b8b-40e2-bd89-6744811d58d8
 
 
 
