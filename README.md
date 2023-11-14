@@ -27,7 +27,7 @@ and here I will know some TTPs of AM0N-Eye, but not all.
 7. AV/EDR Recon
 8. PayloadGenerator Undetected by antivirus programs
 9. custom malwares
-10. New c2 profiles
+10. New c2 profile
 __________________________________________________________________________________________________________________________________________________________
 # PayloadGenerator
 
@@ -49,7 +49,8 @@ Don't forget to Check C2 profiles in /AM0N-Eye/C2-Profiles/ to bypass network fi
 To use a custom profile  you must start a AM0N-Eye team server and specify your profile at that tim 
 Example ./teamserver [external IP] [password] [/path/to/my.profile] .
 
-# C2-profile
+
+# New C2-profile
 
 configuration for memory related to a c2-profile. Here's a breakdown of the information:
 
@@ -86,9 +87,8 @@ configuration for memory related to a c2-profile. Here's a breakdown of the info
 
 9. String Transformations:
    - The transform-x86 and transform-x64 sections define transformations to replace specific strings in the code. This can be used to modify error messages or remove certain information.
-![Screenshot from 2023-11-13 22-10-30](https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/369b2665-5400-420b-b669-952bbb95fc8c)
 
-![Screenshot from 2023-11-13 22-09-56](https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/a9aa8540-1870-45ff-95d1-5dadecd76dfc)
+![Screenshot from 2023-11-13 22-29-07](https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/75619d8d-449c-4462-a6ac-22bbbfaf9ec0)
 
 
 # C2-simples
