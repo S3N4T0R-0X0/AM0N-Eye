@@ -40,7 +40,6 @@ Creates /opt/amon-eye/Staged_Payloads, /opt/amon-eye/Stageless_Payloads
 A security framework for enterprises and Red Team personnel, supports AM0N-Eye penetration testing of other platforms (Linux / MacOS / ...), supports custom modules, and includes some commonly used penetration modules.
 
 Lateral movement
-
     Generate beacon of Linux-bind / MacOS-bind type
     The target in the intranet runs ./MacOS-bind.beacon <port> to start the service
     Run connect <targetIP>:<port> in the session
@@ -98,6 +97,7 @@ windows https://github.com/S3N4T0R-0X0/Jicop-H00k.git
 Linux   https://github.com/S3N4T0R-0X0/Marionette.git
 
 Mac-os  https://github.com/S3N4T0R-0X0/Diablo.git
+
 __________________________________________________________________________________________________________________________________________________________
 
 # Obfuscate the scripts called by the aggressor scripts 
@@ -119,13 +119,12 @@ ________________________________________________________________________________
 
 
 # Demos for bypassing defensive machines
-
+```
   Some demos where I was able to bypass some defensive machines.
-
   Note: I did not use any of the aggressor scripts or BOF in any of these demos,
-
   I only depend the new samples and the new Default profile.
 
+```
   ## Bypass CrowdStrike Endpoint
 _________________________________________________________________________________________________________________________________________________________
 
