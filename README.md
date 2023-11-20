@@ -323,13 +323,11 @@ The Payload is a base64 encoded powershell payload based off your HTTP/HTTPS lis
  
 
 
-##checkmate request 
+# checkmate request 
 version of the checkmate request Web Delivery attack
 
-
-    Stageless Web Delivery using checkmate.exe 
-    
-    Powerpick is used to spawn checkmate.exe to download the stageless payload on target and execute with rundll32.exe
+Stageless Web Delivery using checkmate.exe 
+Powerpick is used to spawn checkmate.exe to download the stageless payload on target and execute with rundll32.exe
 
 
 # Curl-TLS  
@@ -345,7 +343,7 @@ This aims to solve that problem by only probing the system using native registry
 
 
 
-#BOF & (New command)
+# BOF & (New command)
 
     AV_Query                  Queries the Registry for AV Installed
     FindModule                Find loaded modules.
