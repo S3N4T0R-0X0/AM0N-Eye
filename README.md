@@ -87,6 +87,9 @@ configuration for memory related to a c2-profile. Here's a breakdown of the info
 9. String Transformations:
    - The transform-x86 and transform-x64 sections define transformations to replace specific strings in the code. This can be used to modify error messages or remove certain information.
 
+10. AMSI (Antimalware Scan Interface) Disablement
+- `amsi_disable`: When set to "false," it directs certain commands (`powerpick`, `execute-assembly`, and `psinject`) to patch the `AmsiScanBuffer` function, which helps in bypassing AMSI protection when loading .NET or PowerShell code.
+
 ![Screenshot from 2023-11-13 22-29-07](https://github.com/S3N4T0R-0X0/AM0N-Eye/assets/121706460/75619d8d-449c-4462-a6ac-22bbbfaf9ec0)
 
 
