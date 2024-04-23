@@ -4,7 +4,7 @@ is project based on a combination of different ideas and projects used by the th
 
 The most focused point for the development is the collection of projects for the Cobaltsetrike (aggressor scripts) and making it an essential feature without the need for to add it every time,Obfuscate the scripts called by the aggressor scripts to activate them at the target,and changed the default c2 profile to change the signature of Cobalt, while maintaining the integration feature with other c2 profiles, and writing new c2 samples for Windows,Linux,MacOS.
 
-This project is not authorized to be published ⚠️
+This project is not authorized to be published  ⚠️
 
 Due to the copyrights of fortra, the developers are not responsible for any attempt to publish AM0N-Eye
 
